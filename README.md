@@ -1,5 +1,11 @@
 # SentimentalAnalysis
 
+Predict Stock trend(buy,sell,hold) based on investors reviews using Opinion Mining 
+
+I have used selenium for web data extraction. But my program is not able to extract all companies(see UrlList.csv) investors comments. It is skipping companies. So i only taken some companies comments as static.
+
+See realtime folder for realtime sentiments analysis of project. No UI is included. Output shown in cmd. 
+
 
 Read these blogs in analysis and try
 
