@@ -7,6 +7,7 @@ I have used selenium for web data extraction. But my program is not able to extr
 See realtime folder for realtime sentiments analysis of project. No UI is included. Output shown in cmd. 
 
 
+
 Read these blogs in analysis and try
 
   https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html
